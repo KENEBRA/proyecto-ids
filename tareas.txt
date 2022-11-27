@@ -1,0 +1,4 @@
+nos repartiremos las necesidades planteadas en el classroom de redes para la presentcion del proyecto, Alejandro se encargara de armar el circuito en packet tracer 
+Cruz de hacer el subneteo con la ip proporcionada 
+y yo Bryan me encargare de hacer la configuracion de los dispositivos.
+24/11/22
