@@ -1,0 +1,5 @@
+se recibio el sistema de redes.
+se empezo con la configuracion de los dispositivos.
+se completo la configuracion.
+se hicieron las pruebas.
+las pruebas fueron exitosas.
